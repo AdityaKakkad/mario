@@ -1,0 +1,66 @@
+
+#heding {
+    background-color: green;
+    font-family: 'VT323', monospace;
+    display: inline;
+    font-size: 50px;
+    border-radius: 5px;
+}
+
+#btn {
+    float: right;
+    font-family: 'VT323', monospace;
+    background-color: green;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.big_image {
+    width: 100%;
+}
+
+#btn_play {
+    background-color: green;
+    font-family: 'VT323', monospace;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+#status {
+    font-family: 'VT323', monospace;
+    font-size: 30px;
+    border-radius: 2px;
+    background-color: yellow;
+    width: max-content;
+}
+
+body {
+    background-color: red;
+}
+
+h4 {
+    background-color: gray;
+    color: white;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    font-size: 20px;
+    line-height: 2;
+    margin: 0;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.instruction_image {
+    display: inline-block;
+    width: 35%;
+}
+
+video {
+    background:url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
